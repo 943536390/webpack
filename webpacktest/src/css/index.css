@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+    color: white;
+}
+#img {
+	background: url(../images/manhua.png);
+	width: 466px;
+	height: 453px;
+	transform: rotate(30deg);
+}
+
+.a {
+	color: red;
+}
